@@ -1,2 +1,2 @@
 # Python_DoS
-Python DoS (Denial of Service) program.
+Python DoS (Denial of Service) script.
